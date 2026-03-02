@@ -9,6 +9,7 @@ This repository contains selected coursework and projects completed as part of m
   - Software Design Document
   - Design analysis and reflection
   - Portfolio Reflection – The Gaming Room Software Design Document
+  - Artemis-Financial-Vulnerability-Assessment-Report.
 
 Client Summary and Software Requirements
 The client for this project was The Gaming Room, a company that wanted to expand their existing game, Draw It or Lose It, from a single-platform application into a web-based, multi-platform game. Their main requirements included supporting multiple teams and players, ensuring that each game, team, and player had a unique name, and allowing the game to scale efficiently across different operating systems.
