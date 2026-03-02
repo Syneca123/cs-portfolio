@@ -27,3 +27,20 @@ I interpreted the user’s needs by focusing on usability, reliability, and scal
 
 Software Design Approach and Future Strategies
 My approach to designing software involved breaking the problem into smaller components, analyzing constraints, and selecting appropriate design patterns and architectures. In the future, I would continue to use UML diagrams, requirement analysis, and platform comparisons, while incorporating iterative feedback earlier in the design phase.
+## CS 305 – Software Security Artifact
+
+Artifact Added
+
+Artemis Financial Vulnerability Assessment Report
+
+Reflection
+
+Artemis Financial is a financial services company that required improved security for its software application. The company wanted to identify vulnerabilities that could expose sensitive financial data and put client information at risk. The goal was to assess the system, find weaknesses, and recommend solutions to strengthen security.
+
+During the assessment, I analyzed potential threats and documented security flaws in the application. Coding securely is essential because financial systems handle confidential personal and financial information. Strong software security protects customer data, maintains trust, prevents financial losses, and helps companies comply with regulations.
+
+One of the most challenging aspects was interpreting the vulnerability scan results and determining which issues posed the greatest risk. This process was helpful because it showed how different vulnerabilities can impact a system and how to prioritize remediation efforts.
+
+Security layers were improved by recommending encryption, secure communication protocols, and safer coding practices. In the future, I would use automated vulnerability scanning tools, dependency analysis tools, and risk assessment frameworks to evaluate threats and determine appropriate mitigation strategies.
+
+After reviewing the system, I ensured that recommendations would not interfere with functionality while still improving security. This project demonstrates my ability to analyze risks, document findings, and propose effective security solutions.
